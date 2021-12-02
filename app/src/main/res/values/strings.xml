@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Personal Budgeting App</string>
+    <string name="rs_0">Rs. 0</string>
+    <string name="status">status</string>
+    <string name="today">Today</string>
+
+    <string-array name="items">
+        <item>Select item</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>House</item>
+        <item>Entertainment</item>
+        <item>Education</item>
+        <item>Apparel</item>
+        <item>Charity</item>
+        <item>Health</item>
+        <item>Personal</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="transport">Transport</string>
+    <string name="food">Food</string>
+    <string name="house">House</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="education">Education</string>
+    <string name="apparel">Apparel</string>
+    <string name="charity">Charity</string>
+    <string name="health">Health</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
+    <string name="thisWeek">This Week</string>
+    <string name="thisMonth">This Month</string>
+    <string name="search">Search</string>
+
+</resources>
